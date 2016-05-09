@@ -1,9 +1,5 @@
-# hello-world
-My First Git
+# Shoothing Light Scheme for Sublime Text 3
 
-It is awesome to learn Git...
 
-I will keep My Projects here from now on.
+This is my first customized Sublime Text 3
 
-Oww... Now on 1st March 2016, 1:36 PM I understood actually what README.MD file does.
-  It shows the description of your repo... at the bottom of the repo page.... Sorry its in my own language... :)
